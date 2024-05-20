@@ -1,4 +1,4 @@
-.html <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -36,5 +36,4 @@
     <div class="rainbow-text">BOA NOITE THAYS</div>
 </body>
 </html>
-# Boa-noite-Thays
-Boa
+
